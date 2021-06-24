@@ -1,0 +1,58 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*( Phone )*/
+@media (max-width: 480px) {
+
+	/*= General =================== */
+
+	/** General >> Paragraph span:(1) **/
+	.elementor-text-editor > p > span:nth-of-type(1) {
+  font-weight: 400 !important;
+  font-style: normal !important;
+}
+
+	/** General >> creloanbox **/
+	.elementor-element-a08c88c > .elementor-element-populated {
+  width: 100% !important;
+}
+
+	/** General >> Cntheadin1 **/
+	#content h4 {
+  text-align: center !important;
+  word-wrap: normal !important;
+  padding-left: 0 !important;
+}
+
+	/** General >> creloanbox2 **/
+	#content .elementor-element-populated {
+  width: 100% !important;
+}
+
+	/** General >> box3 **/
+	.elementor-element-56d080b p {
+  width: 100% !important;
+}
+
+	/** General >> Content elementor element 6b92469 **/
+	#content .elementor-element-6b92469 {
+  width: 100% !important;
+  min-width: auto !important;
+  max-height: auto !important;
+  box-sizing: border-box !important;
+}
+
+	/** General >> textparagrah1 **/
+	.elementor-element-56d080b .elementor-text-editor {
+  width: 100% !important;
+  min-width: auto !important;
+}
+
+	/** General >> newbox5 **/
+	.elementor-element-56d080b .elementor-text-editor {
+  width: 100% !important;
+}
+
+
+}
+
